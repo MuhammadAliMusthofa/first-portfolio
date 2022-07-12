@@ -66,19 +66,43 @@
                             <p>Web ini dibuat dengan HTML, CSS,PHP sebagai tampilan depan dan JSON sebagai tempat Penyimpanan data yang masuk dari
                                input User. Web ini adalah project akhir dari sertifikasi digitalent.Kegunaan Web ini adalah agar user dapat medaftarkan harga barang dan pajaknya.
                             </p>
-                            <img src="assets/img/daftarbrg.jpg" alt=".." width="250px" style="border-radius:7px ;">
+                            <img src="assets/img/daftarbrg.jpg" alt=".." width="450px" style="border-radius:7px ;">
                         </div>
                         
                     </div>
                    
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">CRUD Blog Web</h3>
                             <a href="https://github.com/MuhammadAliMusthofa/Nodejs-CRUD_BLOG"><div class="subheading mb-3">Lihat Code Project</div></a>
                             <p>Project ini dibuat dengan teknologi Web Seperti HTML,CSS, JAVASCRIPT, serta Bootsrap sebagai Front end, dan menggunakan
                                Nodejs dan Postgres SQL Sebagai Beckend.Dalam Web ini user dapat melakukan crud sebuah blog yang sudah di autentikasi melalui Register dan login.
                             </p>
-                            <img src="assets/img/imgcrud.jpg" alt=".." width="250px" style="border-radius:7px ;">
+                            <img src="assets/img/imgcrud.jpg" alt=".." width="550px" style="border-radius:7px ;">
+
+                        </div>
+                    </div>
+
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Todo List JAVASCRIPT</h3>
+                            <a href="https://replit.com/@MuhammadAliMust/TodoListgreaterJS#index.html"><div class="subheading mb-3">Lihat Code Project</div></a>
+                            <p>Project ini dibuat dengan teknologi Web Seperti HTML,CSS, JAVASCRIPT.Todo list app ini berfungsi untuk mencatat kegiatan yang akan kita lakukan
+                            ,selain itu dapat kita tandai kegiatan mana yang sudah dilakukan dan dapat dihapus dari list kegiatan.
+                            </p>
+                            <img src="assets/img/ToDOLIST.jpg" alt=".." width="500px" style="border-radius:7px ;">
+
+                        </div>
+                    </div>
+
+                    <div class="d-flex flex-column flex-md-row justify-content-between ">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Starbucks Landing Page</h3>
+                            <a href="https://replit.com/@MuhammadAliMust/TodoListgreaterJS#index.html"><div class="subheading mb-3">Lihat Code Project</div></a>
+                            <p>Project ini dibuat dengan teknologi Web Seperti HTML,CSS, JAVASCRIPT.Web ini berisi tampilan sederhana dari 
+                            perusahaan sturbucks.
+                            </p>
+                            <img src="assets/img/page-starbucks.jpg" alt=".." width="500px" style="border-radius:7px ;">
 
                         </div>
                     </div>
